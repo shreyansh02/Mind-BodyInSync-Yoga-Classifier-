@@ -2,7 +2,7 @@
 
 <img src = "./static/demo.gif" width="600px" height = "300px">
 
-<b><a href="https://elysian01.github.io/Exercise-And-Yoga-Tracker/">Click here</a> to visit website.</b>
+
 
 ### With the need to be fit and healthy on the rise today, Yoga-Tracker proves to be a valuable solution. 
 
